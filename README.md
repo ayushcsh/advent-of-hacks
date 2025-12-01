@@ -11,3 +11,6 @@ Below is a curated list of the main free cybersecurity holiday events for this s
 | **SANS – Holiday Hack Challenge (HHC)** | General | Nov 5, 2025 | Jan 5, 2026 | [Holiday Hack Challenge](https://www.sans.org/cyber-ranges/holiday-hack-challenge) |
 | **Root-Me – Root-XMAS** | General | Dec 1, 2025 | Dec 24, 2025 | [Root-XMAS](https://ctf.xmas.root-me.org/)  |
 | **Cyberstudents - Advent of CTF** | General | Dec 1, 2025 | Dec 25, 2025 | [Advent of CTF](https://cyberstudents.net/advent/2025) | 
+| **OSINT4Fun - Advent of OSINT** | OSINT | Dec 1, 2025 | Dec 24, 2025 |[Advent of OSINT](https://www.osint4fun.eu/advent2025)
+| **STAR Labs - Hex Advent** | General | Dec 1, 2025 | Dec 31, 2025 | [Hex Advent](https://hex-advent.starlabs.sg/) |
+| **Flagvent** | General | Dec 1, 2025 | Dec 24, 2025 | [Flagvent](https://flagvent.org/) |
