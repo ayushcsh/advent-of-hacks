@@ -7,6 +7,7 @@ Below is a curated list of the main free cybersecurity holiday events for this s
 | Event Name | Focus Area | Start Date | End Date | Link |
 |------------|------------|--------------------|-----------------------------|----------------|
 | **TryHackMe – Advent of Cyber (AoC)** | General | Dec 1, 2025 | Dec 24, 2025 | [Advent of Cyber](https://tryhackme.com/adventofcyber25) |
+| **⮑ Advent of Cyber (AoC) Side Quest** | General | Dec 1, 2025 | Dec 24, 2025 | [Advent of Cyber Side Quest](https://tryhackme.com/adventofcyber25/sidequest) |
 | **pwn.college – Advent of Pwn** | Binary Exploitation (Pwn) | Dec 1, 2025 | Dec 12, 2025 | [Advent of PWN](https://pwn.college/advent-of-pwn/) |
 | **SANS – Holiday Hack Challenge (HHC)** | General | Nov 5, 2025 | Jan 5, 2026 | [Holiday Hack Challenge](https://www.sans.org/cyber-ranges/holiday-hack-challenge) |
 | **Root-Me – Root-XMAS** | General | Dec 1, 2025 | Dec 24, 2025 | [Root-XMAS](https://ctf.xmas.root-me.org/)  |
